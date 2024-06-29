@@ -1,10 +1,10 @@
-node_modules - deleted
+#node_modules - deleted
 #server=node.js
-client=react.js
+#client=react.js
 
-_______start________
-KINO\Server>npm run dev
-KINO\clientt>npm start
+#_______start________
+#KINO\Server>npm run dev
+#KINO\clientt>npm start
 
-"#KINO" 
+#"#KINO" 
 
