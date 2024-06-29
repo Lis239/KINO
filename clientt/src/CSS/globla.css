@@ -1,0 +1,148 @@
+.Container:hover {
+    background: #0078BF;
+    color: #fff;
+}
+
+
+.ContainerGray:hover {
+    background:#778899;
+    color: #fff;
+}
+.ContainerGray{
+    background: #778899;
+    color: #fff;
+}
+
+.Container_Col_Gray{
+    background: #778899;
+    color: #fff;
+    position: relative;
+    width: 20%;
+    -moz-border-radius: 4px;
+    border-radius: 4px;
+    padding: 1em 1.5em;
+    color: rgba(0,0,0, .0);
+    text-shadow: 0 1px 0 #fff;
+    line-height: 1.5;
+    margin: 10px auto;
+}
+
+.ContainerB:hover {
+    background: #1E90FF;
+    color: #fff;
+}
+.ContainerB{
+    background: #1E90FF;
+    color: #fff;
+}
+
+.Container_Col_B{
+    background: #1E90FF;
+    color: #fff;
+    position: relative;
+    width: 20%;
+    -moz-border-radius: 4px;
+    border-radius: 4px;
+    padding: 1em 1.5em;
+    color: rgba(0,0,0, .0);
+    text-shadow: 0 1px 0 #fff;
+    line-height: 1.5;
+    margin: 10px auto;
+}
+
+.ContainerR:hover {
+    background: #8d4f58;
+    color: #fff;
+}
+.ContainerR{
+    background: #8d4f58;
+    color: #fff;
+}
+
+.ContainerG:hover {
+    background: #72a884;
+    color: #fff;
+}
+
+.ColContent{
+    height: 120%;
+}
+.Container_Col_false{
+    background: #8d4f58;
+    color: #fff;
+    position: relative;
+    width: 20%;
+    -moz-border-radius: 4px;
+    border-radius: 4px;
+    padding: 1em 1.5em;
+    color: rgba(0,0,0, .0);
+    text-shadow: 0 1px 0 #fff;
+    line-height: 1.5;
+    margin: 10px auto;
+}
+
+.Container,.Cont_One {
+    position: relative;
+    width: 20%;
+    background: #ddd;
+    -moz-border-radius: 4px;
+    border-radius: 4px;
+    padding: 1em 1.5em;
+    color: rgba(0,0,0, .8);
+    text-shadow: 0 1px 0 #fff;
+    line-height: 1.5;
+    margin: 10px auto;
+}
+
+
+.Container:before, .Container:after,.Cont_One:before,.Cont_One:after {
+    z-index: -1;
+    position: absolute;
+    content: "";
+    bottom: 15px;
+    left: 10px;
+    width: 50%;
+    top: 80%;
+    max-width:300px;
+    background: rgba(0, 0, 0, 0.7);
+    -webkit-box-shadow: 0 15px 10px rgba(0,0,0, 0.7);
+    -moz-box-shadow: 0 15px 10px rgba(0, 0, 0, 0.7);
+    box-shadow: 0 15px 10px rgba(0, 0, 0, 0.7);
+    -webkit-transform: rotate(-3deg);
+    -moz-transform: rotate(-3deg);
+    -o-transform: rotate(-3deg);
+    -ms-transform: rotate(-3deg);
+    transform: rotate(-3deg);
+}
+
+.Container:after,.Cont_One:after {
+    -webkit-transform: rotate(3deg);
+    -moz-transform: rotate(3deg);
+    -o-transform: rotate(3deg);
+    -ms-transform: rotate(3deg);
+    transform: rotate(3deg);
+    right: 10px;
+    left: auto;
+}
+
+.Text_C{
+    text-align: center;
+}
+
+.DatPic_H{
+    width: 100px;
+}
+
+
+.Scroll_200{
+    overflow-y: auto;
+    height:200px;
+}
+.Scroll_600{
+    overflow-y: auto;
+    height:600px;
+}
+.Scroll_400{
+    overflow-y: auto;
+    height:400px;
+}

@@ -1,0 +1,21 @@
+.C_Wh{
+    color:white;
+    text-decoration: none;
+}
+.Text_Wh{
+    color:white;
+
+}
+Container{
+    max-width:2000px
+}
+
+.Spin_W_CENT{
+    width: 80px;
+    height: 80px;
+    flex: 1;
+    margin-top:50vh;;
+    margin-left:50vw;;
+    justify-content: center;
+    align-items:center;
+}

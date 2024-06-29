@@ -1,0 +1,16 @@
+export const  ADMIN_R='/admin'
+export const  USER_R='/user'
+export const  Login_R='/login'
+export const  Registr_R='/registration'
+export const  Main_R='/'
+export const  Stat_R='/statistic'
+
+export const  Film_R='/admin/film'
+export const  Zal_R='/admin/zal'
+export const  USERS_R='/admin/users'
+export const  Smena_R='/admin/smena'
+export const  Smena_Sotr_R='/admin/smena_sotr'
+export const  Seans_R='/admin/seans'
+
+export const  Brons_R='/user/bron'
+export const  Bilets_R='/user/bilet'
