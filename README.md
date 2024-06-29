@@ -1,5 +1,5 @@
 node_modules - deleted
-server=node.js
+#server=node.js
 client=react.js
 
 _______start________
