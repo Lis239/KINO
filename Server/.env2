@@ -1,0 +1,7 @@
+port=5050
+DB_NAME=KINO
+DB_USER=postgres
+DS_PASSWORD=password_DB
+DB_HOST=localhost
+DB_PORT=8080(DB PORT)
+SK_SK=159753qsczse(token key)
